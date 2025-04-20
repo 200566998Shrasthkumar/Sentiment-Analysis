@@ -23,4 +23,3 @@ Analyze Reddit post content to:
 # Contact
 
 Shrasth Kumar: 200566998@student.georgianc.on.ca
-Jeevan Veerabhadra: 200610320@student.georgianc.on.ca   
